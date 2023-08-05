@@ -25,7 +25,7 @@ X 66 - only audio output, no input at all<br>
 X 67 - line in and out, only audio out works<br>
 X 68 - absolutely no audio in or out, no speakers shown<br>
 69 - no builtin speaker out but perfect mic in, only earphone out, not in<br>
-70 - <br>
+Best 70 - all works perfectly, except earphone in<br>
 76 - <br>
 77 - <br>
 88 - <br>
