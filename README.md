@@ -18,13 +18,13 @@ X 22 - nothing works<br>
 X 23 - same as default, always show earphones but not working<br>
 X 24 - only Line Out, earphones audio out works, builtin mic works, nothing else<br>
 X 28 - only builtin speakers work<br>
-33 - <br>
-56 - <br>
-57 - <br>
-66 - <br>
-67 - <br>
-68 - <br>
-69 - <br>
+33 - same as 17<br>
+X 56 - same as 11<br>
+X 57 - no audio at all<br>
+X 66 - only audio output, no input at all<br>
+X 67 - line in and out, only audio out works<br>
+X 68 - absolutely no audio in or out, no speakers shown<br>
+69 - no builtin speaker out but perfect mic in, only earphone out, not in<br>
 70 - <br>
 76 - <br>
 77 - <br>
