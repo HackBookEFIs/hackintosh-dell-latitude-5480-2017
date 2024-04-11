@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU</key>
+	<array>
+		<dict>
+			<key>Intel(R) Core(TM) i5-7440HQ CPU @ 2.80GHz</key>
+			<dict>
+				<key>Cores</key>
+				<string>4 cores</string>
+				<key>Threads</key>
+				<string>4 threads</string>
+				<key>SSE</key>
+				<string>SSE4.2</string>
+				<key>SSSE3</key>
+				<string>Supported</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Vendor</key>
+	<dict>
+		<key>Model</key>
+		<string>MacBookPro14,1</string>
+		<key>Manufacturer</key>
+		<string>Dell Inc.</string>
+	</dict>
+	<key>GPU</key>
+	<array>
+		<dict>
+			<key>Intel HD Graphics 620</key>
+			<dict>
+				<key>Vendor ID</key>
+				<string>0x8086</string>
+				<key>Device ID</key>
+				<string>0x591b</string>
+				<key>PCI Path</key>
+				<string>PciRoot(0x0)/Pci(0x2,0x0)</string>
+				<key>ACPI Path</key>
+				<string>\_SB.PCI0.GFX0</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Memory</key>
+	<array>
+		<dict>
+			<key>KMKYF9-MIB (Part-Number)</key>
+			<dict>
+				<key>Type</key>
+				<string>DDR4</string>
+				<key>Slot</key>
+				<dict>
+					<key>Bank</key>
+					<string>BANK 0</string>
+					<key>Channel</key>
+					<string>DIMM A</string>
+				</dict>
+				<key>Frequency (MHz)</key>
+				<string>2400 MHz</string>
+				<key>Manufacturer</key>
+				<string>01980000802C</string>
+				<key>Capacity</key>
+				<string>8192MB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>KMKYF9-MIB (Part-Number)</key>
+			<dict>
+				<key>Type</key>
+				<string>DDR4</string>
+				<key>Slot</key>
+				<dict>
+					<key>Bank</key>
+					<string>BANK 2</string>
+					<key>Channel</key>
+					<string>DIMM B</string>
+				</dict>
+				<key>Frequency (MHz)</key>
+				<string>2400 MHz</string>
+				<key>Manufacturer</key>
+				<string>01980000802C</string>
+				<key>Capacity</key>
+				<string>8192MB</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Network</key>
+	<array>
+		<dict>
+			<key>Ethernet Connection (5) I219-LM</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0x15e3</string>
+				<key>Vendor</key>
+				<string>0x8086</string>
+				<key>PCI Path</key>
+				<string>PciRoot(0x0)/Pci(0x1f,0x6)</string>
+				<key>ACPI Path</key>
+				<string>\_SB.PCI0.GLAN</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Wireless 8265 / 8275</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0x24fd</string>
+				<key>Vendor</key>
+				<string>0x8086</string>
+				<key>PCI Path</key>
+				<string>PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)</string>
+				<key>ACPI Path</key>
+				<string>\_SB.PCI0.RP02.PXSX</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Audio</key>
+	<array>
+		<dict>
+			<key>CM238 HD Audio Controller</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0xa171</string>
+				<key>Vendor</key>
+				<string>0x8086</string>
+				<key>PCI Path</key>
+				<string>PciRoot(0x0)/Pci(0x1f,0x3)</string>
+				<key>ACPI Path</key>
+				<string>\_SB.PCI0.HDAS</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Input</key>
+	<array>
+		<dict>
+			<key>Magic Trackpad 2 (I2C)</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0x272</string>
+				<key>Vendor</key>
+				<string>0x5ac</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Keyboard (PS2)</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0xffff</string>
+				<key>Vendor</key>
+				<string>0x5ac</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Keyboard</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0xffff</string>
+				<key>Vendor</key>
+				<string>0x5ac</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Mouse (I2C)</key>
+			<dict>
+				<key>Device ID</key>
+				<string>0xffff</string>
+				<key>Vendor</key>
+				<string>0x5ac</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Storage</key>
+	<array>
+		<dict>
+			<key>WD Green M.2 2280 240GB</key>
+			<dict>
+				<key>Type</key>
+				<string>Solid State Drive (SSD)</string>
+				<key>Connector</key>
+				<string>SATA</string>
+				<key>Location</key>
+				<string>Internal</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Displays</key>
+	<array>
+		<dict>
+			<key>UNKNOWN DISPLAY DEVICE </key>
+			<dict>
+				<key>Product ID</key>
+				<string>0x558</string>
+				<key>Vendor ID</key>
+				<string>0x30e4</string>
+				<key>Serial</key>
+				<string>0x0</string>
+				<key>Resolution</key>
+				<string>1728x1080</string>
+				<key>Size (in inches)</key>
+				<string>14”</string>
+				<key>Display mode</key>
+				<string>Landscape</string>
+				<key>Connector</key>
+				<string>UNKNOWN CONNECTOR</string>
+				<key>Aspect ratio</key>
+				<string>16:10</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

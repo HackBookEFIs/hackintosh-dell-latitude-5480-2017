@@ -1,0 +1,86 @@
+─ CPU
+  └── Intel(R) Core(TM) i5-7440HQ CPU @ 2.80GHz
+      ├── Cores: 4 cores
+      ├── Threads: 4 threads
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Vendor
+  ├── Model: MacBookPro14,1
+  └── Manufacturer: Dell Inc.
+
+─ GPU
+  └── Intel HD Graphics 620
+      ├── Vendor ID: 0x8086
+      ├── Device ID: 0x591b
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
+      └── ACPI Path: \_SB.PCI0.GFX0
+
+─ Memory
+  ├── KMKYF9-MIB (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: BANK 0
+  │   │   └── Channel: DIMM A
+  │   ├── Frequency (MHz): 2400 MHz
+  │   ├── Manufacturer: 01980000802C
+  │   └── Capacity: 8192MB
+  └── KMKYF9-MIB (Part-Number)
+      ├── Type: DDR4
+      ├── Slot
+      │   ├── Bank: BANK 2
+      │   └── Channel: DIMM B
+      ├── Frequency (MHz): 2400 MHz
+      ├── Manufacturer: 01980000802C
+      └── Capacity: 8192MB
+
+─ Network
+  ├── Ethernet Connection (5) I219-LM
+  │   ├── Device ID: 0x15e3
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x6)
+  │   └── ACPI Path: \_SB.PCI0.GLAN
+  └── Wireless 8265 / 8275
+      ├── Device ID: 0x24fd
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP02.PXSX
+
+─ Audio
+  └── CM238 HD Audio Controller
+      ├── Device ID: 0xa171
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x3)
+      └── ACPI Path: \_SB.PCI0.HDAS
+
+─ Input
+  ├── Magic Trackpad 2 (I2C)
+  │   ├── Device ID: 0x272
+  │   └── Vendor: 0x5ac
+  ├── Keyboard (PS2)
+  │   ├── Device ID: 0xffff
+  │   └── Vendor: 0x5ac
+  ├── Keyboard
+  │   ├── Device ID: 0xffff
+  │   └── Vendor: 0x5ac
+  └── Mouse (I2C)
+      ├── Device ID: 0xffff
+      └── Vendor: 0x5ac
+
+─ Storage
+  └── WD Green M.2 2280 240GB
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: SATA
+      └── Location: Internal
+
+─ Displays
+  └── UNKNOWN DISPLAY DEVICE 
+      ├── Product ID: 0x558
+      ├── Vendor ID: 0x30e4
+      ├── Serial: 0x0
+      ├── Resolution: 1728x1080
+      ├── Size (in inches): 14”
+      ├── Display mode: Landscape
+      ├── Connector: UNKNOWN CONNECTOR
+      └── Aspect ratio: 16:10
+

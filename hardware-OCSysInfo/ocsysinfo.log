@@ -1,0 +1,25 @@
+2024-04-12 00:46:09,843 | main.py | INFO: Launching OCSysInfo...
+2024-04-12 00:46:20,393 | pci_root.pyc | WARNING: Invalid PCI device – unable to construct PCI path (IOKit)
+2024-04-12 00:46:23,157 | mac.pyc | ERROR: Failed to construct valid format for storage device (IOKit)
+	^^^^^^^^^'NoneType' object has no attribute 'strip'
+2024-04-12 00:46:23,157 | mac.pyc | ERROR: Failed to construct valid format for storage device (IOKit)
+	^^^^^^^^^'NoneType' object has no attribute 'strip'
+2024-04-12 00:46:23,158 | ui.pyc | INFO: Creating UI...
+2024-04-12 00:46:23,463 | ui.pyc | INFO: UI creation ran successfully.
+2024-04-12 00:46:56,009 | ui.pyc | INFO: Attempting to discover hardware...
+2024-04-12 00:46:56,011 | ui.pyc | INFO: Successfully ran 'discovery'.
+2024-04-12 00:47:17,507 | text.pyc | INFO: Successfully dumped "info_dump.txt" into "/Applications/OCSysInfo.app/Contents/MacOS"
+2024-04-12 00:47:22,422 | ui.pyc | INFO: Creating UI...
+2024-04-12 00:47:22,678 | ui.pyc | INFO: UI creation ran successfully.
+2024-04-12 00:47:24,704 | json.pyc | INFO: Successfully dumped "info_dump.json" into "/Applications/OCSysInfo.app/Contents/MacOS"
+2024-04-12 00:47:25,399 | ui.pyc | INFO: Creating UI...
+2024-04-12 00:47:25,650 | ui.pyc | INFO: UI creation ran successfully.
+2024-04-12 00:47:27,474 | xml.pyc | INFO: Successfully dumped "info_dump.xml" into "/Applications/OCSysInfo.app/Contents/MacOS"
+2024-04-12 00:47:28,160 | ui.pyc | INFO: Creating UI...
+2024-04-12 00:47:28,420 | ui.pyc | INFO: UI creation ran successfully.
+2024-04-12 00:47:32,641 | plist.pyc | INFO: Successfully dumped info "info_dump.plist" into "/Applications/OCSysInfo.app/Contents/MacOS"
+2024-04-12 00:47:33,859 | ui.pyc | INFO: Creating UI...
+2024-04-12 00:47:34,111 | ui.pyc | INFO: UI creation ran successfully.
+2024-04-12 00:47:41,020 | UNKNOWN | INFO: Successfully exited.
+
+
