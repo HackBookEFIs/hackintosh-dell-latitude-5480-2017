@@ -1,4 +1,4 @@
-# hackintosh-dell-latitude-5480-2017
+# hackintosh-dell-latitude-5480-2017 - This branch (Custom made EFI) does NOT boot, please use main branch.
 EFI for Dell Latitude 13" 5480 2017 model. Intel i5-7440HQ 7th Generation. WIP
 
 ## Audio
